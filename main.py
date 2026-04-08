@@ -18,3 +18,6 @@ print("jatin")
 
 
 print("sanskar")
+
+
+print("mango")
