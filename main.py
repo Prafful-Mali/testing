@@ -3,7 +3,7 @@ def main():
     print("asfsfd")
     print("asdfadf")
     print("deputy minister")
-    print("asdfaf")
+    print("afwrfwf")
 
 
 if __name__ == "__main__":
