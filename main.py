@@ -2,7 +2,7 @@ def main():
     print("Hello from test!")
     print("asfsfd")
     print("asdfadf")
-    print("asdfasdf")
+    print("deputy minister")
 
 
 if __name__ == "__main__":
