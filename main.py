@@ -3,6 +3,7 @@ def main():
     print("asfsfd")
     print("asdfadf")
     print("deputy minister")
+    print("asdfaf")
 
 
 if __name__ == "__main__":
