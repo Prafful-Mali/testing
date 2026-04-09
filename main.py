@@ -11,4 +11,16 @@ if __name__ == "__main__":
 
 
 pass
-print("jabcb")
+
+
+print("jatin")
+
+
+
+print("sanskar")
+
+
+print("mango")
+
+
+print("melon")
